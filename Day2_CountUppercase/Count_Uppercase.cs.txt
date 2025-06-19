@@ -1,12 +1,13 @@
-short count_uppercase(string text)
+public int count_uppercase(string text)
 {
- short count = 0;
- for (short ch = 0; ch < text.length(); ch++)
- {
- if (isupper(text[ch]))
- {
- count++;
- }
- }
- return count;
+ int count=0;
+for(int ch=0; ch < text.Length; ch ++)
+{
+if(char.IsUpper(ch))
+  {
+    count ++;
+  }
+ 
 }
+
+ return count;
