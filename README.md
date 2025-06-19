@@ -1,2 +1,2 @@
- Currently implemented in: Python, C++
-🔜 C# version coming soon!
+ Currently implemented in: Python, C++ and C#
+
