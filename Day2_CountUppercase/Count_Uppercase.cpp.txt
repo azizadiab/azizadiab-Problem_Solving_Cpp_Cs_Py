@@ -1,0 +1,13 @@
+public int count_uppercase(string text)
+{
+ int count=0;
+for(int ch=0; ch < text.Length; ch ++)
+{
+if(char.IsUpper(ch))
+  {
+    count ++;
+  }
+ 
+}
+
+ return count;

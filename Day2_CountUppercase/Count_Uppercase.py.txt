@@ -1,0 +1,2 @@
+def count_uppercase(text):
+ return sum(1 for ch in text if ch.isupper())

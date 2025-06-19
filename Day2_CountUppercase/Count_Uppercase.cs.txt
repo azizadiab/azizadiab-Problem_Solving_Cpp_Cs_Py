@@ -1,0 +1,12 @@
+short count_uppercase(string text)
+{
+ short count = 0;
+ for (short ch = 0; ch < text.length(); ch++)
+ {
+ if (isupper(text[ch]))
+ {
+ count++;
+ }
+ }
+ return count;
+}
