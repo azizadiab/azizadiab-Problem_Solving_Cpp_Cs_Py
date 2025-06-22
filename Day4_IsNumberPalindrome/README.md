@@ -81,6 +81,7 @@ bool Is_Palindrome(int Num1)
        return Num1 == ReversePalindrome(Num1);
 
    }
+Rename to README.md
 
 
 ✅ Notes
@@ -90,4 +91,4 @@ bool Is_Palindrome(int Num1)
 👩‍💻 By: Aziza Abdel Hamid Diab  
 🔗 GitHub: https://github.com/azizadiab
 
-Rename to README.md
+
