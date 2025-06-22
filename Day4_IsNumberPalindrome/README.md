@@ -1,6 +1,6 @@
-# Day 4 – Check if a Number is Palindrome (Python | C# | C++)
+Rename to README.md
 
-## 🧠 Problem
+ 🧠 Problem
 Write a function that checks whether a given number is a **Palindrome**.
 
 > A number is considered a palindrome if it reads the same forward and backward.
@@ -11,7 +11,6 @@ Input: 121 ➞ True
 Input: 12321 ➞ True
 Input: 1234 ➞ False
 
-🔍 Solutions
 🔍 Solutions
 
 🐍 Python
@@ -81,7 +80,7 @@ bool Is_Palindrome(int Num1)
        return Num1 == ReversePalindrome(Num1);
 
    }
-Rename to README.md
+
 
 
 ✅ Notes
